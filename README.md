@@ -15,7 +15,7 @@ This is a static replica of the Amazon website built using *HTML and CSS*. The p
 ## 🚀 How to Use
 1. Download or clone the repository:
 
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/Rahul82927/amazon-clone.git
 
 2. Open index.html in your browser.
 
