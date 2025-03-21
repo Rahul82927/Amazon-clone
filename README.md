@@ -1,4 +1,5 @@
  Amazon Clone (Static Website)
+ ![](https://github.com/Rahul82927/Amazon-clone/blob/main/Screenshot1.png)
 
 This is a static replica of the Amazon website built using *HTML and CSS*. The project is designed to mimic the front-end structure of Amazon, showcasing various UI components such as the header, navigation bar, product listings, and footer.
 
